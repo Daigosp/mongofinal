@@ -1,0 +1,51 @@
+[
+  {
+    "_id": {
+      "$oid": "69207d17f0f0f7ab84f81644"
+    },
+    "nombre": "Música",
+    "dias": "Lunes"
+  },
+  {
+    "_id": {
+      "$oid": "69207d17f0f0f7ab84f81645"
+    },
+    "nombre": "Fútbol",
+    "dias": "Miércoles"
+  },
+  {
+    "_id": {
+      "$oid": "69207d17f0f0f7ab84f81646"
+    },
+    "nombre": "Pintura",
+    "dias": "Miércoles"
+  },
+  {
+    "_id": {
+      "$oid": "69207d17f0f0f7ab84f81647"
+    },
+    "nombre": "Ajedrez",
+    "dias": "Jueves"
+  },
+  {
+    "_id": {
+      "$oid": "69207d17f0f0f7ab84f81649"
+    },
+    "nombre": "Programación",
+    "dias": "Lunes"
+  },
+  {
+    "_id": {
+      "$oid": "69207d17f0f0f7ab84f8164a"
+    },
+    "nombre": "Cocina",
+    "dias": "Martes"
+  },
+  {
+    "_id": {
+      "$oid": "69207d17f0f0f7ab84f8164b"
+    },
+    "nombre": "Carpintería",
+    "dias": "Jueves"
+  }
+]
